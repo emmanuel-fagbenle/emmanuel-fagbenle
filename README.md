@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmanuel-fagbenle
-- 👀 I’m interested in Data science 
-- 🌱 I’m currently learning SQL and python
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Machine learning and AI 
 - 💞️ I’m looking to collaborate
 - 📫 You can reach me on fagbenlee@gmail.com
 
